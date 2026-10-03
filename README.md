@@ -25,6 +25,7 @@ O processo automatizado segue as seguintes etapas:
 6. Abrir o Power BI;
 7. Atualizar os dados do dashboard.
 
+```text
 Fluxo da automação
       ↓
 Portal de dados
